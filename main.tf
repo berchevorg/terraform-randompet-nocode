@@ -7,3 +7,7 @@ variable "length" {
   length    = var.length
   separator = "-"
  }
+
+
+
+
